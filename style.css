@@ -39,7 +39,7 @@
 	justify-content: center;
 	align-items: center;
 	width: 900px;
-	margin: 50px auto;
+	margin: 80px auto;
 }
 .single {
 	color: #e55473;
@@ -58,4 +58,31 @@
 	display: flex;
 	justify-content: space-around;
 	margin: 50px;
+}
+/* new */
+.latest-deal {
+	width: 1115px;
+	height: 300px;
+	margin: 0 auto;
+	background-image: url('Flower Asset/Rectangle\ 9.png');
+	text-align: center;
+}
+.title-info {
+	padding-top: 100px;
+}
+input {
+	padding: 10px;
+}
+.search-here {
+	width: 500px;
+	border-radius: 5px;
+	border: 0;
+}
+.btn-secondery {
+	border: 0;
+	background-color: #e55473;
+	cursor: pointer;
+	margin-left: 5px;
+	border-radius: 5px;
+	width: 100px;
 }
