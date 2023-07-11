@@ -26,6 +26,36 @@
 .bannar-description > p {
 	color: lightgray;
 }
+/* to find easy */
+.bonus-marks {
+	width: 1000px;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+.img-flex {
+	display: flex;
+	justify-content: space-around;
+}
+.img-flex > img {
+	margin: 15px;
+	border-radius: 50% 50% 0 0;
+	width: 300px;
+}
+.pink {
+	background-color: #0597a0;
+}
+.flower {
+	background-color: skyblue;
+}
+.tree {
+	background-color: rgb(228, 123, 188);
+}
+.names {
+	display: flex;
+	justify-content: space-around;
+	text-decoration: underline;
+}
 /* main section */
 .deal-container {
 	background-color: antiquewhite;
