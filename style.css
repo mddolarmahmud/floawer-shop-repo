@@ -3,7 +3,6 @@
 	justify-content: center;
 	align-items: center;
 	background-color: #eaa7a7;
-	/* margin: 0; */
 }
 .bannar-description {
 	width: 506px;
@@ -34,7 +33,6 @@
 }
 .deal {
 	display: flex;
-	/* margin-top: 50px; */
 	justify-content: center;
 	align-items: center;
 	width: 900px;
@@ -61,10 +59,11 @@
 /* new */
 .latest-deal {
 	width: 1115px;
-	height: 300px;
+	height: 350px;
 	margin: 0 auto;
 	background-image: url('Flower Asset/Rectangle\ 9.png');
 	text-align: center;
+	margin-top: 100px;
 }
 .title-info {
 	padding-top: 100px;
