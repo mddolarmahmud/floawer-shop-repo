@@ -28,3 +28,34 @@
 .bannar-description > p {
 	color: lightgray;
 }
+/* main section */
+.deal-container {
+	background-color: antiquewhite;
+	margin-top: 80px;
+}
+.deal {
+	display: flex;
+	/* margin-top: 50px; */
+	justify-content: center;
+	align-items: center;
+	width: 900px;
+	margin: 50px auto;
+}
+.single {
+	color: #e55473;
+}
+/* flower-items */
+.title {
+	margin-top: 70px;
+}
+.title-caption {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.flower-items {
+	display: flex;
+	justify-content: space-around;
+	margin: 50px;
+}
