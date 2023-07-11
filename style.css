@@ -1,0 +1,30 @@
+.bannar {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #eaa7a7;
+	/* margin: 0; */
+}
+.bannar-description {
+	width: 506px;
+	/* height: 428px; */
+	margin-left: 200px;
+	text-align: center;
+}
+
+.bannar-image {
+	width: 635px;
+	height: 428px;
+	margin-left: 50px;
+}
+.btn-primary {
+	padding: 10px;
+	border-radius: 5px;
+	border: 0;
+	float: left;
+	background: #e55473;
+	cursor: pointer;
+}
+.bannar-description > p {
+	color: lightgray;
+}
