@@ -7,7 +7,6 @@
 }
 .bannar-description {
 	width: 506px;
-	/* height: 428px; */
 	margin-left: 200px;
 	text-align: center;
 }
@@ -85,4 +84,13 @@ input {
 	margin-left: 5px;
 	border-radius: 5px;
 	width: 100px;
+}
+/* footer */
+.footer-section {
+	text-align: center;
+	background-color: black;
+	color: white;
+	height: 280px;
+	margin-top: 80px;
+	padding-top: 60px;
 }
